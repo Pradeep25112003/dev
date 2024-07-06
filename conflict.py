@@ -1,1 +1,1 @@
-print('Conflict A')
+print('Conflict B')
